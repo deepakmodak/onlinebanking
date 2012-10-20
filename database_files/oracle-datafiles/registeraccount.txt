@@ -1,0 +1,4 @@
+NAME,ACCTYPE,DOB,SEX,EMAIL,PROFESSION,ADDRESS
+Deepika,saving,1985-10-14T00:00:00,female,deepika@yahoo.com,actress,"mumbai
+      "
+deepak,saving,1989-11-24T00:00:00,male,dmodak007@gmail.com,student,shyam bazaar

@@ -1,0 +1,5 @@
+ACCNO,NAME,TYPE,AMT,IPIN
+Q104,pooja,saving,8000,123
+Q102,neha,current,3900,123
+Q101,Deepak,saving,1800,123
+Q103,rahul,saving,3300,123

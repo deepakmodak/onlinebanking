@@ -1,0 +1,5 @@
+ACCNO,NAME,DOB,SEX,EMAIL,PROFESSION,ADDRESS
+Q101,Deepak,1989-11-24T00:00:00,male,dmodak007@gmail.com,student,lake town
+Q102,neha,1991-06-20T00:00:00,female,neha@gmail.com,doctor,salt lake
+Q103,Rahul,1984-05-10T00:00:00,male,rahul@yahoo.com,engineer,shyam bazaar
+Q104,pooja,1989-06-19T00:00:00,female,pooja@gmail.com,student,ulta danga

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app >
+   <context-param>
+       <param-name>l1</param-name>
+       <param-value>sun.jdbc.odbc.JdbcOdbcDriver</param-value>
+   </context-param>
+   
+   <context-param>
+       <param-name>l2</param-name>
+       <param-value>jdbc:odbc:bank_dsn</param-value>
+   </context-param>
+   
+   <context-param>
+       <param-name>l3</param-name>
+       <param-value>bank</param-value>
+   </context-param>
+   
+   <context-param>
+       <param-name>l4</param-name>
+       <param-value>123</param-value>
+   </context-param>
+   
+    <welcome-file-list>
+        <welcome-file>index.jsp</welcome-file>
+        </welcome-file-list>
+    </web-app>

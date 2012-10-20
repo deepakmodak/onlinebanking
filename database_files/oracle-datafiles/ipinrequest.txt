@@ -1,0 +1,10 @@
+ACCNO,TYPE,STATUS
+Q102,saving,alloted
+Q103,saving,alloted
+A103,current,alloted
+A105,saving,alloted
+Q104,current,alloted
+Q101,saving,alloted
+A107,current,not alloted
+A101,saving,not alloted
+A102,saving,alloted
